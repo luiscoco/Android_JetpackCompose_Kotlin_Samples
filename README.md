@@ -1,2 +1,5 @@
 # Android_JetpackCompose_Kotlin_Samples
-Android JetpackCompose Kotlin Samples
+
+https://github.com/techyourchance
+
+
